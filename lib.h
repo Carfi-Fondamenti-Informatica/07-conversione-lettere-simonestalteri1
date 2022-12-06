@@ -1,1 +1,7 @@
 
+#ifndef ESERCITAZIONE_7_LIBRERIA_H
+#define ESERCITAZIONE_7_LIBRERIA_H
+
+#endif //ESERCITAZIONE_7_LIBRERIA_H
+
+bool conversione (char&);
